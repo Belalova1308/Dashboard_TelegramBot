@@ -11,4 +11,4 @@ Java, Spring Boot, Telegram long polling, Maven, JDBC, Hibernate, SQL, Lombok, P
 
 
 
-<img src="images/startPage.PNG" alt="Alt text" width="100" height="20">
+<img src="images/startPage.PNG" alt="Alt text" width="100" height="200">
