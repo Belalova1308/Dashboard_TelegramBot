@@ -10,13 +10,14 @@
 Java, Spring Boot, Telegram long polling, Maven, JDBC, Hibernate, SQL, Lombok, Poi Word.
 
 
+## Общий вид бота
 
-<img src="images/startPage.PNG" alt="Alt text" width="200" height="400">
-<img src="images/allTasks.PNG" alt="Alt text" width="200" height="400">
+<img src="images/photo.JPG" alt="Alt text" width="400" height="400">
 
-<img src="images/tag.PNG" alt="Alt text" width="400" height="200">
-<img src="images/doc.PNG" alt="Alt text" width="400" height="200">
+## Поиск по тегу и отправка Word пользователю
+
+<img src="images/photo2.JPG" alt="Alt text" width="800" height="200">
 
 ## Word файл с задачами пользователя
 
-<img src="images/docShow.PNG" alt="Alt text" width="450" height="400">
+<img src="images/docShow.PNG" alt="Alt text" width="450" height="450">
